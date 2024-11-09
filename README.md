@@ -24,7 +24,7 @@ Developed using the React, Nodejs, and Prisma stack, it offers a professional we
  - **Ongoing Development:** Continued enhancements with an evolving admin system.
  - **Best Practices:** Adherence to industry best practices, ensuring reusable and maintainable code.
 
-<
+
 #### What Technology Are Using In This Project
 
 **Frontend Technology Stack:** 
