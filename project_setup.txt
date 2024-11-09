@@ -1,7 +1,7 @@
 # Setup Documentation
 
 ## Clone The Project
-git clone https://github.com/Ujjalzaman/Doctor-Appointment.git
+git clone https://github.com/prateekjain13/Healthcare-Appointment-Booking-and-Reminder-System.git
 
 ### Install Frontend
 cd Doctor-Appointment
@@ -41,4 +41,3 @@ cd api
 ### Start Backend
 npm start
 
-Happy coding! 🚀
